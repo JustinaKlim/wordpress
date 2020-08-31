@@ -1,0 +1,73 @@
+.form-group {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.form-admin {
+    display: block;
+    width: 50%;
+}
+
+.admin-input {
+    width: 50%;
+    height: 40px;
+    font-size: 15px;
+    margin: 10px 0;
+}
+
+.admin-label {
+    width: 100%;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.lenteles {
+    display: block;
+    width: 100%;
+    
+}
+
+
+.trinti {
+    border-radius: 0px;
+    background-color: rgb(216, 212, 212);
+    justify-content: center;
+    width: 500px;
+    margin: auto;
+}
+.forma {
+    justify-content: center;
+    width: 500px;
+    
+    margin: auto;
+    background-color: rgb(216, 212, 212);
+}
+
+
+
+.mygtukai {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+
+.admin-button {
+    height: 40px;
+    width: 100px;
+    background-color: rgb(197, 129, 129);
+    border-radius: 20px;
+    border: solid 1px rgb(100, 91, 91);
+    cursor: pointer;
+    text-transform: uppercase;
+    margin: 0 10px;
+}
+
+.admin-button:hover {
+    transition: 1s;
+    background-color: rgb(100, 91, 91);
+    color: white;
+}
